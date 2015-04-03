@@ -26,4 +26,12 @@ The course currently spans 11 weekly sessions with the following topics:
 * Testing & CI
 * Open Source Software
 
-The course is usually accompanied by an exercise class every two weeks. As the exercise materials are part of the graded course assignments, I'm currently not including them in this public release.
+The course is usually accompanied by an exercise class every two weeks. As the exercise materials are part of the graded course assignments, I'm currently not including them in this public release
+.
+
+## git and ODT
+
+The files in this repository are in OpenDocument format. If you add the following lines to your `~/.gitconfig` file and install the `odt2txt` utility, you can use the regular `git diff` command to compare versions etc.:
+
+    [diff "odf"]
+        textconv=odt2txt
