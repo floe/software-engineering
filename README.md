@@ -26,8 +26,7 @@ The course currently spans 11 weekly sessions with the following topics:
 * Testing & CI
 * Open Source Software
 
-The course is usually accompanied by an exercise class every two weeks. As the exercise materials are part of the graded course assignments, I'm currently not including them in this public release
-.
+The course is usually accompanied by an exercise class every two weeks. As the exercise materials are part of the graded course assignments, I'm currently not including them in this public release.
 
 ## git and ODT
 
