@@ -1,4 +1,4 @@
-# Software Engineering lecture materials
+# _Software Engineering_ lecture materials
 
 ## Preface
 
