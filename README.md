@@ -23,15 +23,13 @@ Where possible, I have tagged material from external sources with CC (also under
 The course currently spans 11 weekly sessions with the following topics:
 
 * Introduction
-* Best Practices
-* Software Processes
-* Agile Methods
-* Design Patterns Part 1
-* Design Patterns Part 2
+* Best Practices: RCS, Testing, Modeling
+* Classic & Agile Development Models (2 sessions)
+* Design Patterns (2 sessions)
 * Code Quality
-* Build Systems
+* Build Systems & Debugging
 * Requirements Engineering
-* Testing & CI
+* Testing & Continuous Integration
 * Open Source Software
 
 The course is usually accompanied by an exercise class every two weeks. As the exercise materials are part of the graded course assignments, I'm currently not including them in this public release.
