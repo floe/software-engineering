@@ -27,9 +27,9 @@ The course currently spans 11 weekly sessions with the following topics:
 * Classic & Agile Development Models (2 sessions)
 * Design Patterns (2 sessions)
 * Code Quality
-* Build Systems & Debugging
+* Build Process & Debugging
 * Requirements Engineering
-* Testing & Continuous Integration
+* Testing/CI & Memory Layout
 * Open Source Software
 
 The course is usually accompanied by an exercise class every two weeks. As the exercise materials are part of the graded course assignments, I'm currently not including them in this public release.
