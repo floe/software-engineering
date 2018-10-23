@@ -20,7 +20,7 @@ Where possible, I have tagged material from external sources with CC (also under
 
 ## Contents
 
-The course currently spans 11 weekly sessions with the following topics:
+The course currently spans 12 weekly sessions with the following topics:
 
 * Introduction
 * Best Practices: RCS, Testing, UML
