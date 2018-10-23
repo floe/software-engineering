@@ -23,7 +23,8 @@ Where possible, I have tagged material from external sources with CC (also under
 The course currently spans 11 weekly sessions with the following topics:
 
 * Introduction
-* Best Practices: RCS, Testing, Modeling
+* Best Practices: RCS, Testing, UML
+* Object-Oriented Development Refresher
 * Classic & Agile Development Models (2 sessions)
 * Design Patterns (2 sessions)
 * Code Quality
