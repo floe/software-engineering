@@ -20,17 +20,18 @@ Where possible, I have tagged material from external sources with CC (also under
 
 ## Contents
 
-The course currently spans 12 weekly sessions with the following topics:
+The course currently spans 13 weekly sessions with the following topics:
 
 * Introduction
-* Best Practices: RCS, Testing, UML
-* Object-Oriented Development Refresher
+* Git & OOP Refresher
+* Best Practices: Testing & UML
 * Classic & Agile Development Models (2 sessions)
 * Design Patterns (2 sessions)
 * Code Quality
-* Build Process & Debugging
+* Build Process
+* Debugging
+* Testing & CI
 * Requirements Engineering
-* Testing/CI & Memory Layout
 * Open Source Software
 
 The course is usually accompanied by an exercise class every two weeks. As the exercise materials are part of the graded course assignments, I'm currently not including them in this public release.
