@@ -2,9 +2,13 @@
 
 ## Preface
 
-This repository contains lecture materials (mostly slide sets) for an undergraduate course in software engineering. This course was initially held at [Bauhaus-Universität Weimar](https://www.uni-weimar.de/) in the winter semester 2014/15 for B.Sc. students in the [Computer Science and Media](http://www.uni-weimar.de/en/media/studies/computer-science-and-media-hci/medieninformatik-computer-science-and-media-bsc/) degree. Prerequisites are basic knowledge about fundamentals of computer science and good skills (theoretical as well as practical) in C++. 
+This repository contains lecture materials (mostly slide sets) for an undergraduate course in software engineering. This course was initially held at [Bauhaus-Universität Weimar](https://www.uni-weimar.de/) in the winter semester 2014/15 for B.Sc. students in the [Computer Science and Media](http://www.uni-weimar.de/en/media/studies/computer-science-and-media-hci/medieninformatik-computer-science-and-media-bsc/) degree. Prerequisites are basic knowledge about fundamentals of computer science and good skills (theoretical as well as practical) in Java.
 
 _Comments, feedback and suggestions for improvement (including pull requests) are very welcome._
+
+## Videos
+
+A (somewhat basic) lecture recording from spring 2020 is available at https://www.youtube.com/playlist?list=PLjEglKdMOevU2STTGq79duxTXDFuO-k1H (also under CC license, see below).
 
 ## License
 
